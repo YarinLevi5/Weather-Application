@@ -1,5 +1,5 @@
 $(function () {
-    weatherFromCities(putData)
+    weatherFromCities(putData);
 });
 
 const container = $('.container');
