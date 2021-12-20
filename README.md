@@ -6,9 +6,9 @@
 
 _Welcome to my weather app._
 
-- My app contain List of cities in Israel.
+- My app contains a list of cities in Israel.
 - At this app, you can select which city you want to see the weather in.
-- Use with API request.
+- Use with the API request.
 
 ---
 
